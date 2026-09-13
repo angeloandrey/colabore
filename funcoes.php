@@ -1,2 +1,6 @@
 <?php
-//projeto com colaboradores
+//inicio do arquivo funcoes.php
+
+function teste(){
+	return TRUE;
+}
